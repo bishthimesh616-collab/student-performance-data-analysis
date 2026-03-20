@@ -51,19 +51,5 @@ Each row represents a student's performance record.
 - Certain factors influence performance patterns across students  
 - Correlation analysis helps identify relationships between different subjects  
 
----
-
-## 📷 Visualizations
-
-(Add your images here like this)
-
-![Score Distribution](score_distribution.png)
-
-![Boxplot](boxplot_scores.png)
-
-![Correlation Heatmap](heatmap.png)
-
----
-
 ## 📌 Conclusion
 This project provides insights into student performance and highlights the importance of data analysis in understanding academic trends. The analysis can help in identifying key factors that impact student outcomes.
